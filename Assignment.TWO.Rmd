@@ -1,13 +1,8 @@
 
 ---
-title: "Severe weather events impact on public health and the economy"
-author: "Scott Palmer"
-date: "May 23, 2017"
-output:
-  html_document:
-    keep_md: yes
-    theme: readable
-  pdf_document: default
+## Title: "Severe Weather Events' Impact on Public Health and the Economy"
+### Author: Scott Palmer
+### Date: May 23, 2017
 ---
 
 ---
