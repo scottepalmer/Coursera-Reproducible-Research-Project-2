@@ -1,11 +1,11 @@
-# Severe weather events impact on public health and the economy
-DanH  
-August 7, 2016  
+# Severe Weather Events' Impact on Public Health and the Economy
+Scott Palmer 
+May 23, 2017
 
 
 ---
 
-###Synopsis
+### Synopsis
 
 This report is based on data from the U.S. National Oceanic and Atmospheric Administration's(NOAA) database. 
 This database tracks characteristics of major storms and weather events in the United States including when 
@@ -21,7 +21,7 @@ with respect to population health?
 
 ---
 
-###Data Processing
+### Data Processing
 
 First of all, we load the required packages, then we do the data processing. We have to:
 
@@ -46,7 +46,7 @@ storm_data <- read.csv("storm_data.bz2")
 ```
 
 
-####Relevant Variables
+#### Relevant Variables
 
 Given the scope of our project, we will only require the following variables to determine which weather event has greatest impact to public health and the economy. Thus, we create a subset of the original data set named _Sub.data_
 
@@ -71,7 +71,7 @@ So, the required variables are:
 ---
 
 
-###Results
+### Results
 
 >Q1. Across the United States, which types of events (as indicated in the variable) are most harmful with respect to population health?**
 
@@ -180,6 +180,6 @@ Sub.data.Mult %>%
 
 ![](Assignment.TWO_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
 
-####Conclusion
+#### Conclusion
   
   Floods, Hurricanes and Tornadoes cause the most overall economic damages. Drought causes the most damages to crop. Tornadoes have the highest impact in terms of population health
