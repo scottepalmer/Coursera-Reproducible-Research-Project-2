@@ -1,6 +1,6 @@
 # Severe Weather Events' Impact on Public Health and the Economy
-Scott Palmer 
-May 23, 2017
+### Scott Palmer 
+### May 23, 2017
 
 
 ---
