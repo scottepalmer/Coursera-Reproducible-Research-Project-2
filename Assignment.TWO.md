@@ -89,7 +89,7 @@ Sub.data  %>%  group_by(EVTYPE) %>%
                      coord_flip()
 ```
 
-![](Assignment.TWO_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
+![](figures/unnamed-chunk-3-1.png)<!-- -->
 
 ```r
 Sub.data  %>%  group_by(EVTYPE) %>%
@@ -103,7 +103,7 @@ Sub.data  %>%  group_by(EVTYPE) %>%
                        coord_flip()
 ```
 
-![](Assignment.TWO_files/figure-html/unnamed-chunk-3-2.png)<!-- -->
+![](/figures/unnamed-chunk-3-2.png)<!-- -->
 
 
 ---
@@ -178,7 +178,7 @@ Sub.data.Mult %>%
 ## Selecting by TotDamages
 ```
 
-![](Assignment.TWO_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
+![](figures/unnamed-chunk-5-1.png)<!-- -->
 
 #### Conclusion
   
